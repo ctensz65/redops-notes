@@ -1,0 +1,3 @@
+It is hard to manage the documentation or notes across different platform and devices, so i need to centralize it within one platform. This documentation is expected to be available in isolated environment when conducting red teaming, usually client's office with poor connection or even without internet access.
+
+Gently reminder, the documentation not fully comes from my original idea or knowledge. if you fell this documentation can be helpful, just clone it or maybe you could contribute?
